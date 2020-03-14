@@ -109,7 +109,7 @@
     </action>
     <action id="stapler-i18n" class="org.kohsuke.stapler.idea.I18nRefactorAction" text="i18n for stapler" description="i18n for stapler">
       <keyboard-shortcut keymap="$default" first-keystroke="ctrl alt I"/>
-      <add-to-group group-id="RefactoringMenu" anchor="after" relative-to-action="I18nize"/>
+      <add-to-group group-id="RefactoringMenu" anchor="after" relative-to-action="Internationalize"/>
     </action>
   </actions>
 
